@@ -7,3 +7,6 @@ These are the questions that I want to investigate
 2. question number 2
 3. question number 3
 
+# Data Questions
+We're using a dataset from the [Baltimore City Open Data](https://data.baltimorecity.gov/)
+
