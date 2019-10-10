@@ -10,3 +10,8 @@ These are the questions that I want to investigate
 # Data Questions
 We're using a dataset from the [Baltimore City Open Data](https://data.baltimorecity.gov/)
 
+# Data Answers
+Analyzing Baltimore Police Department Salary Data we find the trends in number of Police Officers and overtime earnings in fiscal years 2014-2018:
+
+![Alt text](https://github.com/jhu-decision-analytics/data-analytics-project-fall-2019-template/blob/master/bpd_overtime_count.png)
+
